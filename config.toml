@@ -1,4 +1,4 @@
-baseURL = "http://joestoica.com"
+baseURL = "https://joestoica.com"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
