@@ -8,7 +8,7 @@ This post is a summary of the final project that I completed for my Statistical 
 
 The questions of Tony and Stumpf's original analysis was to see "... whether (i) different outbreaks of the same strain and (ii) outbreaks of different molecular strains of the influenza virus can be described by the same model of disease spread."  In this post, I'll give a quick summary of how ABC works, and how my group went about implementing the algorithm to match the original authors' results.
 
-\_(Quick disclaimer, I would like to give complete credit to the original authors and let it be known that this is their original work, data, and methodology. This is merely an exercise in algorithm implementation.)\_
+(Quick disclaimer, I would like to give complete credit to the original authors and let it be known that this is their original work, data, and methodology. This is merely an exercise in algorithm implementation.)
 
 ## Understanding the data
 
@@ -44,4 +44,4 @@ You can see that the results from this figure matches the paper's findings. The 
 
 ![The second recreated figure](/images/res2.png)
 
-And the results from the second simulation show us the opposite. Since these clusters have no overlap, the two different virus strains from the two different years do not have the same transmission patterns. 
+And the results from the second simulation show us the opposite. Since these clusters have no overlap, the two different virus strains from the two different years do not have the same transmission patterns.
