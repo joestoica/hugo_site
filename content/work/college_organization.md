@@ -1,6 +1,6 @@
 ---
 title: "Productive College Life II: Organization"
-date: 2012-04-05T21:39:32-05:00
+date: 2020-04-05T21:39:32-05:00
 tags: ["blog", "college", "organization"]
 ---
 
